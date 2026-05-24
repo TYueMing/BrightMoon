@@ -3,6 +3,7 @@
 
 It combines a Flask backend, a vanilla HTML/CSS/JavaScript frontend, local Markdown storage, local pickle-based knowledge graph files, and a tool/skill-based AI Assistant.
 
+## Released URL
 > Current project released at Github: [BrightMoon V3.0](https://github.com/TYueMing/BrightMoon/releases/tag/v3.0)
 
 ---
@@ -11,7 +12,7 @@ It combines a Flask backend, a vanilla HTML/CSS/JavaScript frontend, local Markd
 ### 2. Run BrightMoon.exe
 ### 3. Configure the LLM in the setting page
 ---
-
+![BrightMoon]()
 
 ## Features
 
