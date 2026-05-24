@@ -12,7 +12,10 @@ It combines a Flask backend, a vanilla HTML/CSS/JavaScript frontend, local Markd
 ### 2. Run BrightMoon.exe
 ### 3. Configure the LLM in the setting page
 ---
-![BrightMoon]()
+![BrightMoon](2.png)
+
+---
+![BrightMoonHomePage](1.png)
 
 ## Features
 
@@ -94,3 +97,6 @@ BrightMoon/
 `-- utils/
     `-- call_llm.py                 # LLM client wrapper
 ```
+---
+## Unfortunately, CodeX mistakenly deleted all the project source code, so this is the only released version available.
+---
