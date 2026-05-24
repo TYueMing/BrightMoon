@@ -1,4 +1,4 @@
-# readme
+# BrightMoon V3.0   `README`
 -`BrightMoon V3.0` is a local-first AI knowledge workspace for Markdown notes, knowledge graphs, Todo management, and agent-driven workflows.
 
 It combines a Flask backend, a vanilla HTML/CSS/JavaScript frontend, local Markdown storage, local pickle-based knowledge graph files, and a tool/skill-based AI Assistant.
